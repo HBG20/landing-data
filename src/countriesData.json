@@ -1,0 +1,8957 @@
+[
+  {
+    "countryName": "United States",
+    "countryCode": "USA",
+    "marketType": "customs",
+    "marketCoverage": "100%",
+    "numberOfImporters": 6394133,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Price",
+        "value": "No",
+        "availability": "no"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "US"
+  },
+  {
+    "countryName": "Ecuador",
+    "countryCode": "ECU",
+    "marketType": "customs",
+    "marketCoverage": "100%",
+    "numberOfImporters": 538473,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Price",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "EC"
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "marketType": "customs",
+    "marketCoverage": "100%",
+    "numberOfImporters": 105936,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Price",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "IN"
+  },
+  {
+    "countryName": "Turkey",
+    "countryCode": "TUR",
+    "marketType": "customs",
+    "marketCoverage": "100%",
+    "numberOfImporters": 102502,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Price",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "TR"
+  },
+  {
+    "countryName": "China",
+    "countryCode": "CHN",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 83187,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "CN"
+  },
+  {
+    "countryName": "Viet Nam",
+    "countryCode": "VNM",
+    "marketType": "customs",
+    "marketCoverage": "100%",
+    "numberOfImporters": 82562,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Price",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "VN"
+  },
+  {
+    "countryName": "Philippines",
+    "countryCode": "PHL",
+    "marketType": "customs",
+    "marketCoverage": "100%",
+    "numberOfImporters": 82332,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Price",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "PH"
+  },
+  {
+    "countryName": "Costa Rica",
+    "countryCode": "CRI",
+    "marketType": "customs",
+    "marketCoverage": "100%",
+    "numberOfImporters": 79490,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Price",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "CR"
+  },
+  {
+    "countryName": "Mexico",
+    "countryCode": "MEX",
+    "marketType": "customs",
+    "marketCoverage": "100%",
+    "numberOfImporters": 78879,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Price",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "MX"
+  },
+  {
+    "countryName": "Peru",
+    "countryCode": "PER",
+    "marketType": "customs",
+    "marketCoverage": "100%",
+    "numberOfImporters": 64456,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "No",
+        "availability": "no"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Price",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "PE"
+  },
+  {
+    "countryName": "Germany",
+    "countryCode": "DEU",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 62187,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "DE"
+  },
+  {
+    "countryName": "Russian Federation",
+    "countryCode": "RUS",
+    "marketType": "customs",
+    "marketCoverage": "100%",
+    "numberOfImporters": 61628,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Price",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "RU"
+  },
+  {
+    "countryName": "United Arab Emirates",
+    "countryCode": "ARE",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 57591,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "AE"
+  },
+  {
+    "countryName": "Colombia",
+    "countryCode": "COL",
+    "marketType": "customs",
+    "marketCoverage": "100%",
+    "numberOfImporters": 54186,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Price",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "CO"
+  },
+  {
+    "countryName": "Bolivia",
+    "countryCode": "BOL",
+    "marketType": "customs",
+    "marketCoverage": "100%",
+    "numberOfImporters": 53031,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Price",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "BO"
+  },
+  {
+    "countryName": "Italy",
+    "countryCode": "ITA",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 44828,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "IT"
+  },
+  {
+    "countryName": "Kenya",
+    "countryCode": "KEN",
+    "marketType": "customs",
+    "marketCoverage": "100%",
+    "numberOfImporters": 43845,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Price",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "KE"
+  },
+  {
+    "countryName": "Spain",
+    "countryCode": "ESP",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 42264,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "ES"
+  },
+  {
+    "countryName": "Ukraine",
+    "countryCode": "UKR",
+    "marketType": "customs",
+    "marketCoverage": "100%",
+    "numberOfImporters": 41788,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Price",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "UA"
+  },
+  {
+    "countryName": "Japan",
+    "countryCode": "JPN",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 41760,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "JP"
+  },
+  {
+    "countryName": "Ghana",
+    "countryCode": "GHA",
+    "marketType": "customs",
+    "marketCoverage": "100%",
+    "numberOfImporters": 41136,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "No",
+        "availability": "no"
+      },
+      {
+        "label": "Price",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "GH"
+  },
+  {
+    "countryName": "Uganda",
+    "countryCode": "UGA",
+    "marketType": "customs",
+    "marketCoverage": "100%",
+    "numberOfImporters": 40634,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Price",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "UG"
+  },
+  {
+    "countryName": "France",
+    "countryCode": "FRA",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 39519,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "FR"
+  },
+  {
+    "countryName": "Netherlands",
+    "countryCode": "NLD",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 39494,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "NL"
+  },
+  {
+    "countryName": "Argentina",
+    "countryCode": "ARG",
+    "marketType": "customs",
+    "marketCoverage": "100%",
+    "numberOfImporters": 37189,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "No",
+        "availability": "no"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Price",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "AR"
+  },
+  {
+    "countryName": "Nepal",
+    "countryCode": "NPL",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 36854,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "NP"
+  },
+  {
+    "countryName": "Panama",
+    "countryCode": "PAN",
+    "marketType": "customs",
+    "marketCoverage": "100%",
+    "numberOfImporters": 36670,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Price",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "PA"
+  },
+  {
+    "countryName": "Uzbekistan",
+    "countryCode": "UZB",
+    "marketType": "customs",
+    "marketCoverage": "100%",
+    "numberOfImporters": 36146,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Price",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "UZ"
+  },
+  {
+    "countryName": "Saudi Arabia",
+    "countryCode": "SAU",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 35591,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "SA"
+  },
+  {
+    "countryName": "Australia",
+    "countryCode": "AUS",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 34577,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "AU"
+  },
+  {
+    "countryName": "Korea, Republic of",
+    "countryCode": "KOR",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 32554,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "KR"
+  },
+  {
+    "countryName": "Kazakhstan",
+    "countryCode": "KAZ",
+    "marketType": "customs",
+    "marketCoverage": "100%",
+    "numberOfImporters": 32402,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Price",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "KZ"
+  },
+  {
+    "countryName": "Pakistan",
+    "countryCode": "PAK",
+    "marketType": "customs",
+    "marketCoverage": "100%",
+    "numberOfImporters": 31213,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Price",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "PK"
+  },
+  {
+    "countryName": "Brazil",
+    "countryCode": "BRA",
+    "marketType": "customs",
+    "marketCoverage": "100%",
+    "numberOfImporters": 30521,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Price",
+        "value": "No",
+        "availability": "no"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "BR"
+  },
+  {
+    "countryName": "Sri Lanka",
+    "countryCode": "LKA",
+    "marketType": "customs",
+    "marketCoverage": "100%",
+    "numberOfImporters": 30284,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Price",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "LK"
+  },
+  {
+    "countryName": "Poland",
+    "countryCode": "POL",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 27174,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "PL"
+  },
+  {
+    "countryName": "Malaysia",
+    "countryCode": "MYS",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 25509,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "MY"
+  },
+  {
+    "countryName": "Bangladesh",
+    "countryCode": "BGD",
+    "marketType": "customs",
+    "marketCoverage": "100%",
+    "numberOfImporters": 24912,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "No",
+        "availability": "no"
+      },
+      {
+        "label": "Price",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "BD"
+  },
+  {
+    "countryName": "Nigeria",
+    "countryCode": "NGA",
+    "marketType": "customs",
+    "marketCoverage": "100%",
+    "numberOfImporters": 23716,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "No",
+        "availability": "no"
+      },
+      {
+        "label": "Price",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "NG"
+  },
+  {
+    "countryName": "South Africa",
+    "countryCode": "ZAF",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 23157,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "ZA"
+  },
+  {
+    "countryName": "Uruguay",
+    "countryCode": "URY",
+    "marketType": "customs",
+    "marketCoverage": "100%",
+    "numberOfImporters": 22847,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "No",
+        "availability": "no"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Price",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "UY"
+  },
+  {
+    "countryName": "Singapore",
+    "countryCode": "SGP",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 21604,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "SG"
+  },
+  {
+    "countryName": "Indonesia",
+    "countryCode": "IDN",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 21320,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "ID"
+  },
+  {
+    "countryName": "Portugal",
+    "countryCode": "PRT",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 21051,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "PT"
+  },
+  {
+    "countryName": "Venezuela, Bolivarian Republic of",
+    "countryCode": "VEN",
+    "marketType": "customs",
+    "marketCoverage": "100%",
+    "numberOfImporters": 20423,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "No",
+        "availability": "no"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Price",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "VE"
+  },
+  {
+    "countryName": "Thailand",
+    "countryCode": "THA",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 20361,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "TH"
+  },
+  {
+    "countryName": "Botswana",
+    "countryCode": "BWA",
+    "marketType": "customs",
+    "marketCoverage": "100%",
+    "numberOfImporters": 20098,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Price",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "BW"
+  },
+  {
+    "countryName": "Greece",
+    "countryCode": "GRC",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 19664,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "GR"
+  },
+  {
+    "countryName": "Hong Kong",
+    "countryCode": "HKG",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 19267,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "HK"
+  },
+  {
+    "countryName": "Romania",
+    "countryCode": "ROU",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 18064,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "RO"
+  },
+  {
+    "countryName": "Egypt",
+    "countryCode": "EGY",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 16793,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "EG"
+  },
+  {
+    "countryName": "Belgium",
+    "countryCode": "BEL",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 16638,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "BE"
+  },
+  {
+    "countryName": "Taiwan, Province of China",
+    "countryCode": "TWN",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 16412,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "TW"
+  },
+  {
+    "countryName": "Iraq",
+    "countryCode": "IRQ",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 16395,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "IQ"
+  },
+  {
+    "countryName": "Georgia",
+    "countryCode": "GEO",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 15207,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "GE"
+  },
+  {
+    "countryName": "Ethiopia",
+    "countryCode": "ETH",
+    "marketType": "customs",
+    "marketCoverage": "100%",
+    "numberOfImporters": 14839,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "No",
+        "availability": "no"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Price",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "ET"
+  },
+  {
+    "countryName": "Congo, The Democratic Republic of the",
+    "countryCode": "COD",
+    "id": "CD",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 14648,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ]
+  },
+  {
+    "countryName": "Rwanda",
+    "countryCode": "RWA",
+    "marketType": "customs",
+    "marketCoverage": "100%",
+    "numberOfImporters": 13927,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Price",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "RW"
+  },
+  {
+    "countryName": "Israel",
+    "countryCode": "ISR",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 13835,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "IL"
+  },
+  {
+    "countryName": "Bhutan",
+    "countryCode": "BTN",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 13448,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "BT"
+  },
+  {
+    "countryName": "Chile",
+    "countryCode": "CHL",
+    "marketType": "customs",
+    "marketCoverage": "100%",
+    "numberOfImporters": 13146,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "No",
+        "availability": "no"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Price",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "CL"
+  },
+  {
+    "countryName": "Azerbaijan",
+    "countryCode": "AZE",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 13111,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "AZ"
+  },
+  {
+    "countryName": "Morocco",
+    "countryCode": "MAR",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 12327,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "MA"
+  },
+  {
+    "countryName": "Sweden",
+    "countryCode": "SWE",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 12252,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "SE"
+  },
+  {
+    "countryName": "Algeria",
+    "countryCode": "DZA",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 11494,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "DZ"
+  },
+  {
+    "countryName": "Bulgaria",
+    "countryCode": "BGR",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 10949,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "BG"
+  },
+  {
+    "countryName": "Burundi",
+    "countryCode": "BDI",
+    "marketType": "customs",
+    "marketCoverage": "100%",
+    "numberOfImporters": 10577,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Price",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "BI"
+  },
+  {
+    "countryName": "Qatar",
+    "countryCode": "QAT",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 10569,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "QA"
+  },
+  {
+    "countryName": "Guatemala",
+    "countryCode": "GTM",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 10353,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "GT"
+  },
+  {
+    "countryName": "Dominican Republic",
+    "countryCode": "DOM",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 10278,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "DO"
+  },
+  {
+    "countryName": "Paraguay",
+    "countryCode": "PRY",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 9798,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "PY"
+  },
+  {
+    "countryName": "Angola",
+    "countryCode": "AGO",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 9657,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "AO"
+  },
+  {
+    "countryName": "Oman",
+    "countryCode": "OM",
+    "id": "OM",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 9487,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ]
+  },
+  {
+    "countryName": "Kuwait",
+    "countryCode": "KWT",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 9134,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "KW"
+  },
+  {
+    "countryName": "New Zealand",
+    "countryCode": "NZL",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 8530,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "NZ"
+  },
+  {
+    "countryName": "Cote d'Ivoire",
+    "countryCode": "CIV",
+    "marketType": "customs",
+    "marketCoverage": "100%",
+    "numberOfImporters": 8526,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Price",
+        "value": "No",
+        "availability": "no"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "CI"
+  },
+  {
+    "countryName": "Senegal",
+    "countryCode": "SEN",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 8485,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "SN"
+  },
+  {
+    "countryName": "Switzerland",
+    "countryCode": "CHE",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 8447,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "CH"
+  },
+  {
+    "countryName": "Hungary",
+    "countryCode": "HUN",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 8132,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "HU"
+  },
+  {
+    "countryName": "Czechia",
+    "countryCode": "CZE",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 8037,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "CZ"
+  },
+  {
+    "countryName": "Malawi",
+    "countryCode": "MWI",
+    "marketType": "customs",
+    "marketCoverage": "100%",
+    "numberOfImporters": 8007,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Price",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "MW"
+  },
+  {
+    "countryName": "Libya",
+    "countryCode": "LBY",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 7902,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "LY"
+  },
+  {
+    "countryName": "Tanzania, United Republic of",
+    "countryCode": "TZA",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 7893,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "TZ"
+  },
+  {
+    "countryName": "South Sudan",
+    "countryCode": "SSD",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 7649,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "SS"
+  },
+  {
+    "countryName": "Austria",
+    "countryCode": "AUT",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 7476,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "AT"
+  },
+  {
+    "countryName": "Ireland",
+    "countryCode": "IRL",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 7408,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "IE"
+  },
+  {
+    "countryName": "Moldova, Republic of",
+    "countryCode": "MDA",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 7296,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "MD"
+  },
+  {
+    "countryName": "Nicaragua",
+    "countryCode": "NIC",
+    "marketType": "customs",
+    "marketCoverage": "100%",
+    "numberOfImporters": 7143,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Price",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "NI"
+  },
+  {
+    "countryName": "Maldives",
+    "countryCode": "MDV",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 6990,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "MV"
+  },
+  {
+    "countryName": "Honduras",
+    "countryCode": "HND",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 6953,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "HN"
+  },
+  {
+    "countryName": "Denmark",
+    "countryCode": "DNK",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 6881,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "DK"
+  },
+  {
+    "countryName": "Tunisia",
+    "countryCode": "TUN",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 6822,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "TN"
+  },
+  {
+    "countryName": "Jordan",
+    "countryCode": "JOR",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 6706,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "JO"
+  },
+  {
+    "countryName": "El Salvador",
+    "countryCode": "SLV",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 6613,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "SV"
+  },
+  {
+    "countryName": "Serbia",
+    "countryCode": "SRB",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 6430,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "RS"
+  },
+  {
+    "countryName": "Lebanon",
+    "countryCode": "LBN",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 6403,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "LB"
+  },
+  {
+    "countryName": "Norway",
+    "countryCode": "NOR",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 6070,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "NO"
+  },
+  {
+    "countryName": "Bahrain",
+    "countryCode": "BHR",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 5344,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "BH"
+  },
+  {
+    "countryName": "Syrian Arab Republic",
+    "countryCode": "SYR",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 5278,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "SY"
+  },
+  {
+    "countryName": "Slovakia",
+    "countryCode": "SVK",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 5261,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "SK"
+  },
+  {
+    "countryName": "Iran, Islamic Republic of",
+    "countryCode": "IRN",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 5115,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "IR"
+  },
+  {
+    "countryName": "Saint Vincent and the Grenadines",
+    "countryCode": "VCT",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 5011,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "VC"
+  },
+  {
+    "countryName": "Tajikistan",
+    "countryCode": "TJK",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 4850,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "TJ"
+  },
+  {
+    "countryName": "Croatia",
+    "countryCode": "HRV",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 4810,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "HR"
+  },
+  {
+    "countryName": "Lithuania",
+    "countryCode": "LTU",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 4810,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "LT"
+  },
+  {
+    "countryName": "Mozambique",
+    "countryCode": "MOZ",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 4673,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "MZ"
+  },
+  {
+    "countryName": "Albania",
+    "countryCode": "ALB",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 4292,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "AL"
+  },
+  {
+    "countryName": "Lesotho",
+    "countryCode": "LSO",
+    "marketType": "customs",
+    "marketCoverage": "100%",
+    "numberOfImporters": 4260,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "No",
+        "availability": "no"
+      },
+      {
+        "label": "Price",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "LS"
+  },
+  {
+    "countryName": "Trinidad and Tobago",
+    "countryCode": "TTO",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 4152,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "TT"
+  },
+  {
+    "countryName": "Finland",
+    "countryCode": "FIN",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 4090,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "FI"
+  },
+  {
+    "countryName": "Bahamas",
+    "countryCode": "BHS",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 4068,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "BS"
+  },
+  {
+    "countryName": "Turkmenistan",
+    "countryCode": "TKM",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 3697,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "TM"
+  },
+  {
+    "countryName": "Slovenia",
+    "countryCode": "SVN",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 3683,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "SI"
+  },
+  {
+    "countryName": "North Macedonia",
+    "countryCode": "MKD",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 3655,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "MK"
+  },
+  {
+    "countryName": "Guyana",
+    "countryCode": "GUY",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 3569,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "GY"
+  },
+  {
+    "countryName": "Jamaica",
+    "countryCode": "JAM",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 3563,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "JM"
+  },
+  {
+    "countryName": "Mauritius",
+    "countryCode": "MUS",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 3561,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "MU"
+  },
+  {
+    "countryName": "Zambia",
+    "countryCode": "ZMB",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 3512,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "ZM"
+  },
+  {
+    "countryName": "Bosnia and Herzegovina",
+    "countryCode": "BIH",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 3449,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "BA"
+  },
+  {
+    "countryName": "Zimbabwe",
+    "countryCode": "ZWE",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 3401,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "ZW"
+  },
+  {
+    "countryName": "Mali",
+    "countryCode": "MLI",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 3392,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "ML"
+  },
+  {
+    "countryName": "Guinea",
+    "countryCode": "GIN",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 3379,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "GN"
+  },
+  {
+    "countryName": "Latvia",
+    "countryCode": "LVA",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 3353,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "LV"
+  },
+  {
+    "countryName": "Burkina Faso",
+    "countryCode": "BFA",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 3281,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "BF"
+  },
+  {
+    "countryName": "Kyrgyzstan",
+    "countryCode": "KGZ",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 3191,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "KG"
+  },
+  {
+    "countryName": "Cambodia",
+    "countryCode": "KHM",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 3179,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "KH"
+  },
+  {
+    "countryName": "Saint Lucia",
+    "countryCode": "LCA",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 3025,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "LC"
+  },
+  {
+    "countryName": "Yemen",
+    "countryCode": "YEM",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 3006,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "YE"
+  },
+  {
+    "countryName": "Afghanistan",
+    "countryCode": "AFG",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 2954,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "AF"
+  },
+  {
+    "countryName": "Malta",
+    "countryCode": "MLT",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 2925,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "MT"
+  },
+  {
+    "countryName": "Djibouti",
+    "countryCode": "DJI",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 2495,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "DJ"
+  },
+  {
+    "countryName": "Estonia",
+    "countryCode": "EST",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 2486,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "EE"
+  },
+  {
+    "countryName": "Mongolia",
+    "countryCode": "MNG",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 2396,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "MN"
+  },
+  {
+    "countryName": "Somalia",
+    "countryCode": "SOM",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 2371,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "SO"
+  },
+  {
+    "countryName": "Belarus",
+    "countryCode": "BLR",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 2369,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "BY"
+  },
+  {
+    "countryName": "Sudan",
+    "countryCode": "SDN",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 2325,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "SD"
+  },
+  {
+    "countryName": "Togo",
+    "countryCode": "TGO",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 2245,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "TG"
+  },
+  {
+    "countryName": "Mauritania",
+    "countryCode": "MRT",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 2128,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "MR"
+  },
+  {
+    "countryName": "Sierra Leone",
+    "countryCode": "SLE",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 2114,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "SL"
+  },
+  {
+    "countryName": "Iceland",
+    "countryCode": "ISL",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 2112,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "IS"
+  },
+  {
+    "countryName": "Myanmar",
+    "countryCode": "MMR",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 2082,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "MM"
+  },
+  {
+    "countryName": "Seychelles",
+    "countryCode": "SYC",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 1838,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "SC"
+  },
+  {
+    "countryName": "Cyprus",
+    "countryCode": "CYP",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 1827,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "CY"
+  },
+  {
+    "countryName": "Gabon",
+    "countryCode": "GAB",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 1776,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "GA"
+  },
+  {
+    "countryName": "Cuba",
+    "countryCode": "CUB",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 1745,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "CU"
+  },
+  {
+    "countryName": "Benin",
+    "countryCode": "BEN",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 1728,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "BJ"
+  },
+  {
+    "countryName": "Liberia",
+    "countryCode": "LBR",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 1688,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "LR"
+  },
+  {
+    "countryName": "Madagascar",
+    "countryCode": "MDG",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 1665,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "MG"
+  },
+  {
+    "countryName": "Haiti",
+    "countryCode": "HTI",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 1530,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "HT"
+  },
+  {
+    "countryName": "Barbados",
+    "countryCode": "BRB",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 1507,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "BB"
+  },
+  {
+    "countryName": "Montenegro",
+    "countryCode": "MNE",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 1490,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "ME"
+  },
+  {
+    "countryName": "Bermuda",
+    "countryCode": "BMU",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 1475,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "BM"
+  },
+  {
+    "countryName": "Belize",
+    "countryCode": "BLZ",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 1396,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "BZ"
+  },
+  {
+    "countryName": "Suriname",
+    "countryCode": "SUR",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 1375,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "SR"
+  },
+  {
+    "countryName": "Antigua and Barbuda",
+    "countryCode": "ATG",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 1248,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "AG"
+  },
+  {
+    "countryName": "Gambia",
+    "countryCode": "GMB",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 1215,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "GM"
+  },
+  {
+    "countryName": "Grenada",
+    "countryCode": "GRD",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 1168,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "GD"
+  },
+  {
+    "countryName": "Equatorial Guinea",
+    "countryCode": "GNQ",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 1087,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "GQ"
+  },
+  {
+    "countryName": "Luxembourg",
+    "countryCode": "LUX",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 951,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "LU"
+  },
+  {
+    "countryName": "Sao Tome and Principe",
+    "countryCode": "STP",
+    "marketType": "customs",
+    "marketCoverage": "100%",
+    "numberOfImporters": 934,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Price",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "ST"
+  },
+  {
+    "countryName": "Congo",
+    "countryCode": "COG",
+    "id": "CG",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 928,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ]
+  },
+  {
+    "countryName": "Lao People's Democratic Republic",
+    "countryCode": "LAO",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 909,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "LA"
+  },
+  {
+    "countryName": "Armenia",
+    "countryCode": "ARM",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 868,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "AM"
+  },
+  {
+    "countryName": "Fiji",
+    "countryCode": "FJI",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 860,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "FJ"
+  },
+  {
+    "countryName": "Papua New Guinea",
+    "countryCode": "PNG",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 716,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "PG"
+  },
+  {
+    "countryName": "Comoros",
+    "countryCode": "COM",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 689,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "KM"
+  },
+  {
+    "countryName": "Cameroon",
+    "countryCode": "CMR",
+    "marketType": "customs",
+    "marketCoverage": "100%",
+    "numberOfImporters": 683,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Price",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "CM"
+  },
+  {
+    "countryName": "Brunei Darussalam",
+    "countryCode": "BRN",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 663,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "BN"
+  },
+  {
+    "countryName": "Dominica",
+    "countryCode": "DMA",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 647,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "DM"
+  },
+  {
+    "countryName": "Saint Kitts and Nevis",
+    "countryCode": "KNA",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 512,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "KN"
+  },
+  {
+    "countryName": "Samoa",
+    "countryCode": "WSM",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 506,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "WS"
+  },
+  {
+    "countryName": "Eritrea",
+    "countryCode": "ERI",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 438,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "ER"
+  },
+  {
+    "countryName": "Chad",
+    "countryCode": "TCD",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 411,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "TD"
+  },
+  {
+    "countryName": "Niger",
+    "countryCode": "NER",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 358,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "NE"
+  },
+  {
+    "countryName": "Marshall Islands",
+    "countryCode": "MHL",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 322,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "MH"
+  },
+  {
+    "countryName": "Vanuatu",
+    "countryCode": "VUT",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 265,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "VU"
+  },
+  {
+    "countryName": "Cabo Verde",
+    "countryCode": "CPV",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 213,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "CV"
+  },
+  {
+    "countryName": "Micronesia, Federated States of",
+    "countryCode": "FSM",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 172,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "FM"
+  },
+  {
+    "countryName": "Guinea-Bissau",
+    "countryCode": "GNB",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 169,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "GW"
+  },
+  {
+    "countryName": "Eswatini",
+    "countryCode": "SWZ",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 160,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "SZ"
+  },
+  {
+    "countryName": "Timor-Leste",
+    "countryCode": "TLS",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 150,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "TL"
+  },
+  {
+    "countryName": "Solomon Islands",
+    "countryCode": "SLB",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 148,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "SB"
+  },
+  {
+    "countryName": "Central African Republic",
+    "countryCode": "CAF",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 134,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "CF"
+  },
+  {
+    "countryName": "Tonga",
+    "countryCode": "TON",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 100,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "TO"
+  },
+  {
+    "countryName": "Liechtenstein",
+    "countryCode": "LIE",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 98,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "LI"
+  },
+  {
+    "countryName": "Palau",
+    "countryCode": "PLW",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 87,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "PW"
+  },
+  {
+    "countryName": "Monaco",
+    "countryCode": "MCO",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 86,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "MC"
+  },
+  {
+    "countryName": "Kiribati",
+    "countryCode": "KIR",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 84,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "KI"
+  },
+  {
+    "countryName": "Korea, Democratic People's Republic of",
+    "countryCode": "PRK",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 83,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "KP"
+  },
+  {
+    "countryName": "Andorra",
+    "countryCode": "AND",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 50,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "AD"
+  },
+  {
+    "countryName": "San Marino",
+    "countryCode": "SMR",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 50,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "SM"
+  },
+  {
+    "countryName": "Tuvalu",
+    "countryCode": "TUV",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 10,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "TV"
+  },
+  {
+    "countryName": "Holy See (Vatican City State)",
+    "countryCode": "VAT",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 7,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "VA"
+  },
+  {
+    "countryName": "Norfolk Island",
+    "countryCode": "NFK",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 7,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "NF"
+  },
+  {
+    "countryName": "Nauru",
+    "countryCode": "NRU",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
+    "numberOfImporters": 4,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Price",
+        "value": "70%",
+        "availability": "70%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "NR"
+  },
+  {
+    "countryName": "Canada",
+    "countryCode": "CAN",
+    "marketType": "government_registries",
+    "marketCoverage": "70%",
+    "numberOfImporters": 206956,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "No",
+        "availability": "no"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "No",
+        "availability": "no"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "No",
+        "availability": "no"
+      },
+      {
+        "label": "Price",
+        "value": "No",
+        "availability": "no"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "CA"
+  },
+  {
+    "countryName": "Great Britain",
+    "countryCode": "GBR",
+    "marketType": "government_registries",
+    "marketCoverage": "70%",
+    "numberOfImporters": 563865,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "No",
+        "availability": "no"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "No",
+        "availability": "no"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "No",
+        "availability": "no"
+      },
+      {
+        "label": "Price",
+        "value": "No",
+        "availability": "no"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "GB"
+  },
+  {
+    "countryName": "Namibia",
+    "countryCode": "NAM",
+    "marketType": "customs",
+    "marketCoverage": "100%",
+    "numberOfImporters": 20672,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "No",
+        "availability": "no"
+      },
+      {
+        "label": "Price",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "NA"
+  },
+  {
+    "countryName": "Puerto Rico",
+    "countryCode": "PRI",
+    "marketType": "customs",
+    "marketCoverage": "100%",
+    "numberOfImporters": null,
+    "dataColumns": [
+      {
+        "label": "Importer Name",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Supplier (exporters)",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Product",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Quantity",
+        "value": "Yes",
+        "availability": "yes"
+      },
+      {
+        "label": "Price",
+        "value": "%",
+        "availability": "%"
+      },
+      {
+        "label": "Contact Data",
+        "value": "Yes",
+        "availability": "yes"
+      }
+    ],
+    "id": "PR"
+  }
+]

@@ -1,0 +1,200 @@
+﻿country;country_name;num_importadores;type_data;market_coverage;importer_name;supplier;country_origin;product;volume;price;contact_data
+US;United States;6394133;Customs;100%;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+EC;Ecuador;538473;Customs;100%;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+IN;India;105936;Customs;100%;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+TR;Turkey;102502;Customs;100%;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+CN;China;83187;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+VN;Viet Nam;82562;Customs;100%;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+PH;Philippines;82332;Customs;100%;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+CR;Costa Rica;79490;Customs;100%;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+MX;Mexico;78879;Customs;100%;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+PE;Peru;64456;Partial Customs;100%;Yes;No;Yes;Yes;Yes;Yes;Yes
+DE;Germany;62187;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+RU;Russian Federation;61628;Customs;100%;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+AE;United Arab Emirates;57591;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+CO;Colombia;54186;Customs;100%;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+BO;Bolivia;53031;Customs;100%;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+IT;Italy;44828;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+KE;Kenya;43845;Customs;100%;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+ES;Spain;42264;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+UA;Ukraine;41788;Customs;100%;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+JP;Japan;41760;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+GH;Ghana;41136;Customs;100%;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+UG;Uganda;40634;Customs;100%;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+FR;France;39519;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+NL;Netherlands;39494;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+AR;Argentina;37189;Partial Customs;100%;Yes;No;Yes;Yes;Yes;Yes;Yes
+NP;Nepal;36854;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+PA;Panama;36670;Customs;100%;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+UZ;Uzbekistan;36146;Customs;100%;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+SA;Saudi Arabia;35591;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+AU;Australia;34577;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+KR;Korea, Republic of;32554;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+KZ;Kazakhstan;32402;Customs;100%;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+PK;Pakistan;31213;Customs;100%;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+BR;Brazil;30521;Customs;100%;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+LK;Sri Lanka;30284;Customs;100%;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+PL;Poland;27174;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+MY;Malaysia;25509;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+BD;Bangladesh;24912;Customs;100%;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+NG;Nigeria;23716;Customs;100%;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+ZA;South Africa;23157;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+UY;Uruguay;22847;Partial Customs;100%;Yes;No;Yes;Yes;Yes;Yes;Yes
+SG;Singapore;21604;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+ID;Indonesia;21320;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+PT;Portugal;21051;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+VE;Venezuela, Bolivarian Republic of;20423;Partial Customs;100%;Yes;No;Yes;Yes;Yes;Yes;Yes
+TH;Thailand;20361;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+BW;Botswana;20098;Customs;100%;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+GR;Greece;19664;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+HK;Hong Kong;19267;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+RO;Romania;18064;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+EG;Egypt;16793;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+BE;Belgium;16638;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+TW;Taiwan, Province of China;16412;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+IQ;Iraq;16395;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+GE;Georgia;15207;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+ET;Ethiopia;14839;Customs;100%;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+CD;Congo, The Democratic Republic of the;14648;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+RW;Rwanda;13927;Customs;100%;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+IL;Israel;13835;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+BT;Bhutan;13448;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+CL;Chile;13146;Partial Customs;100%;Yes;No;Yes;Yes;Yes;Yes;Yes
+AZ;Azerbaijan;13111;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+MA;Morocco;12327;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+SE;Sweden;12252;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+DZ;Algeria;11494;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+BG;Bulgaria;10949;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+BI;Burundi;10577;Customs;100%;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+QA;Qatar;10569;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+GT;Guatemala;10353;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+DO;Dominican Republic;10278;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+PY;Paraguay;9798;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+AO;Angola;9657;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+OM;Oman;9487;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+KW;Kuwait;9134;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+NZ;New Zealand;8530;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+CI;Cote d'Ivoire;8526;Customs;100%;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+SN;Senegal;8485;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+CH;Switzerland;8447;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+HU;Hungary;8132;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+CZ;Czechia;8037;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+MW;Malawi;8007;Customs;100%;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+LY;Libya;7902;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+TZ;Tanzania, United Republic of;7893;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+SS;South Sudan;7649;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+AT;Austria;7476;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+IE;Ireland;7408;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+MD;Moldova, Republic of;7296;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+NI;Nicaragua;7143;Customs;100%;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+MV;Maldives;6990;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+HN;Honduras;6953;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+DK;Denmark;6881;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+TN;Tunisia;6822;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+JO;Jordan;6706;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+SV;El Salvador;6613;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+RS;Serbia;6430;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+LB;Lebanon;6403;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+NO;Norway;6070;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+BH;Bahrain;5344;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+SY;Syrian Arab Republic;5278;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+SK;Slovakia;5261;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+IR;Iran, Islamic Republic of;5115;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+VC;Saint Vincent and the Grenadines;5011;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+TJ;Tajikistan;4850;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+HR;Croatia;4810;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+LT;Lithuania;4810;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+MZ;Mozambique;4673;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+AL;Albania;4292;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+LS;Lesotho;4260;Customs;100%;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+TT;Trinidad and Tobago;4152;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+FI;Finland;4090;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+BS;Bahamas;4068;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+TM;Turkmenistan;3697;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+SI;Slovenia;3683;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+MK;North Macedonia;3655;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+GY;Guyana;3569;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+JM;Jamaica;3563;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+MU;Mauritius;3561;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+ZM;Zambia;3512;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+BA;Bosnia and Herzegovina;3449;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+ZW;Zimbabwe;3401;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+ML;Mali;3392;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+GN;Guinea;3379;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+LV;Latvia;3353;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+BF;Burkina Faso;3281;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+KG;Kyrgyzstan;3191;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+KH;Cambodia;3179;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+LC;Saint Lucia;3025;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+YE;Yemen;3006;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+AF;Afghanistan;2954;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+MT;Malta;2925;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+DJ;Djibouti;2495;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+EE;Estonia;2486;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+MN;Mongolia;2396;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+SO;Somalia;2371;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+BY;Belarus;2369;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+SD;Sudan;2325;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+TG;Togo;2245;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+MR;Mauritania;2128;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+SL;Sierra Leone;2114;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+IS;Iceland;2112;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+MM;Myanmar;2082;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+SC;Seychelles;1838;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+CY;Cyprus;1827;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+GA;Gabon;1776;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+CU;Cuba;1745;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+BJ;Benin;1728;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+LR;Liberia;1688;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+MG;Madagascar;1665;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+HT;Haiti;1530;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+BB;Barbados;1507;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+ME;Montenegro;1490;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+BM;Bermuda;1475;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+BZ;Belize;1396;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+SR;Suriname;1375;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+AG;Antigua and Barbuda;1248;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+GM;Gambia;1215;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+GD;Grenada;1168;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+GQ;Equatorial Guinea;1087;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+LU;Luxembourg;951;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+ST;Sao Tome and Principe;934;Customs;100%;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+CG;Congo;928;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+LA;Lao People's Democratic Republic;909;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+AM;Armenia;868;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+FJ;Fiji;860;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+PG;Papua New Guinea;716;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+KM;Comoros;689;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+CM;Cameroon;683;Customs;100%;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+BN;Brunei Darussalam;663;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+DM;Dominica;647;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+KN;Saint Kitts and Nevis;512;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+WS;Samoa;506;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+ER;Eritrea;438;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+TD;Chad;411;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+NE;Niger;358;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+MH;Marshall Islands;322;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+VU;Vanuatu;265;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+CV;Cabo Verde;213;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+FM;Micronesia, Federated States of;172;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+GW;Guinea-Bissau;169;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+SZ;Eswatini;160;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+TL;Timor-Leste;150;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+SB;Solomon Islands;148;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+CF;Central African Republic;134;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+TO;Tonga;100;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+LI;Liechtenstein;98;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+PW;Palau;87;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+MC;Monaco;86;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+KI;Kiribati;84;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+KP;Korea, Democratic People's Republic of;83;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+AD;Andorra;50;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+SM;San Marino;50;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+TV;Tuvalu;10;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+VA;Holy See (Vatican City State);7;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+NF;Norfolk Island;7;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+NR;Nauru;4;Mixed;50-70%;Yes;Yes;Yes;Yes;Yes;70%;Yes
+CAN;Canada;206956;National Importers Registries;70%;Yes;No;No;Yes;No;No;Yes
+GB;Great Britain;563865;National Importers Registries;70%;Yes;No;No;Yes;No;No;Yes
+NA;Namibia;;Customs;100%;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+PR;Puerto Rico;;Customs;100%;Yes;Yes;Yes;Yes;Yes;Yes;Yes
