@@ -52,22 +52,22 @@ const getMarketColors = (marketType) => {
   switch (marketType) {
     case "mixed":
       return {
-        inactive: { fill: "#d2dbe8", stroke: "#ffffff" },
-        hover: { fill: "#466b99", stroke: "#ffffff", filter: "drop-shadow(0 2px 4px rgba(70, 107, 153, 0.3))" },
-        active: { fill: "#466b99", stroke: "#ffffff", filter: "drop-shadow(0 2px 4px rgba(70, 107, 153, 0.4))" }
+        inactive: { fill: "#19419F", stroke: "#ffffff" },
+        hover: { fill: "#1F56D1", stroke: "#ffffff", filter: "saturate(1) drop-shadow(0 2px 4px rgba(31, 86, 209, 0.3))" },
+        active: { fill: "#1849BD", stroke: "#ffffff", filter: "saturate(1) drop-shadow(0 2px 4px rgba(24, 73, 189, 0.4))" }
       };
     case "government_registries":
       return {
-        inactive: { fill: "#e0e4ea", stroke: "#ffffff" },
-        hover: { fill: "#546c7d", stroke: "#ffffff", filter: "drop-shadow(0 2px 4px rgba(84, 108, 125, 0.3))" },
-        active: { fill: "#546c7d", stroke: "#ffffff", filter: "drop-shadow(0 2px 4px rgba(84, 108, 125, 0.4))" }
+        inactive: { fill: "#3E2790", stroke: "#ffffff" },
+        hover: { fill: "#5235B2", stroke: "#ffffff", filter: "saturate(1) drop-shadow(0 2px 4px rgba(82, 53, 178, 0.3))" },
+        active: { fill: "#6247C4", stroke: "#ffffff", filter: "saturate(1) drop-shadow(0 2px 4px rgba(98, 71, 196, 0.4))" }
       };
     case "customs":
     default:
       return {
-        inactive: { fill: "#d9e4f5", stroke: "#ffffff" },
-        hover: { fill: "#007aff", stroke: "#ffffff", filter: "drop-shadow(0 2px 4px rgba(0, 122, 255, 0.3))" },
-        active: { fill: "#007aff", stroke: "#ffffff", filter: "drop-shadow(0 2px 4px rgba(0, 122, 255, 0.4))" }
+        inactive: { fill: "#007aff", stroke: "#ffffff" },
+        hover: { fill: "#0066d6", stroke: "#ffffff", filter: "saturate(1) drop-shadow(0 2px 4px rgba(0, 102, 214, 0.3))" },
+        active: { fill: "#0052ad", stroke: "#ffffff", filter: "saturate(1) drop-shadow(0 2px 4px rgba(0, 82, 173, 0.4))" }
       };
   }
 };
@@ -109,24 +109,24 @@ const MapChart = ({ selectedCountryCode, onCountrySelect, marketTypeFilter, onMa
     );
   }, []);
 
-      const clearHoverState = useCallback(() => {
-        hoveredPathRef.current = null;
-        const pathsByIso3 = pathsByIso3Ref.current;
-        pathsByIso3.forEach((paths) => {
-          paths.forEach((path) => {
-            // Remove hovered class using setAttribute to ensure consistency
-            const currentClasses = (path.getAttribute("class") || "").trim().split(/\s+/).filter(Boolean);
-            const classesWithoutHovered = currentClasses.filter(cls => cls !== "hovered");
-            if (classesWithoutHovered.length !== currentClasses.length) {
-              path.setAttribute("class", classesWithoutHovered.join(" "));
-            }
-            // Remove inline styles that might override CSS (use removeProperty for !important styles)
-            path.style.removeProperty("fill");
-            path.style.removeProperty("stroke");
-            path.style.removeProperty("filter");
-          });
-        });
-      }, []);
+  const clearHoverState = useCallback(() => {
+    hoveredPathRef.current = null;
+    const pathsByIso3 = pathsByIso3Ref.current;
+    pathsByIso3.forEach((paths) => {
+      paths.forEach((path) => {
+        // Remove hovered class using setAttribute to ensure consistency
+        const currentClasses = (path.getAttribute("class") || "").trim().split(/\s+/).filter(Boolean);
+        const classesWithoutHovered = currentClasses.filter(cls => cls !== "hovered");
+        if (classesWithoutHovered.length !== currentClasses.length) {
+          path.setAttribute("class", classesWithoutHovered.join(" "));
+        }
+        // Remove inline styles that might override CSS (use removeProperty for !important styles)
+        path.style.removeProperty("fill");
+        path.style.removeProperty("stroke");
+        path.style.removeProperty("filter");
+      });
+    });
+  }, []);
 
   const updateTooltipFromPath = useCallback((path, evt) => {
     if (!path) return;
@@ -660,55 +660,56 @@ const MapChart = ({ selectedCountryCode, onCountrySelect, marketTypeFilter, onMa
     };
   }, [clearHoverState, updateTooltipFromPath, lookups.byIso2, lookups.byIso3, lookups.byName, onCountrySelect]);
 
-      useEffect(() => {
-        const iso3 = selectedCountryCode?.toUpperCase();
-        const pathsByIso3 = pathsByIso3Ref.current;
+  useEffect(() => {
+    const iso3 = selectedCountryCode?.toUpperCase();
+    const pathsByIso3 = pathsByIso3Ref.current;
 
-        // Clear hover state when a country is selected
-        if (iso3) {
-          clearHoverState();
+    // Clear hover state when a country is selected
+    if (iso3) {
+      clearHoverState();
+    }
+
+    pathsByIso3.forEach((paths, key) => {
+      const isActive = key === iso3;
+      paths.forEach((path) => {
+        // Update active class using setAttribute
+        const currentClasses = (path.getAttribute("class") || "").trim().split(/\s+/).filter(Boolean);
+        const hasActive = currentClasses.includes("active");
+        
+        if (isActive && !hasActive) {
+          // Add active class
+          currentClasses.push("active");
+          path.setAttribute("class", currentClasses.join(" "));
+        } else if (!isActive && hasActive) {
+          // Remove active class
+          const classesWithoutActive = currentClasses.filter(cls => cls !== "active");
+          path.setAttribute("class", classesWithoutActive.join(" "));
         }
+        
+        // Explicitly set styles for active state
+        const classStr = path.getAttribute("class") || "";
+        const hasData = classStr.includes("has-data");
+        
+        if (isActive && hasData) {
+          // Get market type from path's data attribute or class
+          const marketType = path.dataset.marketType || (classStr.includes("market-mixed") ? "mixed" : classStr.includes("market-government_registries") ? "government_registries" : "customs");
+          const colors = getMarketColors(marketType);
+          path.style.setProperty("fill", colors.active.fill, "important");
+          path.style.setProperty("stroke", colors.active.stroke, "important");
+          path.style.setProperty("filter", colors.active.filter, "important");
+        } else if (!isActive) {
+          // Remove inline styles for non-active countries
+          const isHovered = classStr.includes("hovered");
+          if (!isHovered) {
+            path.style.removeProperty("fill");
+            path.style.removeProperty("stroke");
+            path.style.removeProperty("filter");
+          }
+        }
+      });
+    });
 
-        pathsByIso3.forEach((paths, key) => {
-          const isActive = key === iso3;
-          paths.forEach((path) => {
-            // Update active class using setAttribute
-            const currentClasses = (path.getAttribute("class") || "").trim().split(/\s+/).filter(Boolean);
-            const hasActive = currentClasses.includes("active");
-            
-            if (isActive && !hasActive) {
-              // Add active class
-              currentClasses.push("active");
-              path.setAttribute("class", currentClasses.join(" "));
-            } else if (!isActive && hasActive) {
-              // Remove active class
-              const classesWithoutActive = currentClasses.filter(cls => cls !== "active");
-              path.setAttribute("class", classesWithoutActive.join(" "));
-            }
-            
-            // Explicitly set styles for active state
-            const classStr = path.getAttribute("class") || "";
-            const hasData = classStr.includes("has-data");
-            
-            if (isActive && hasData) {
-              // Get market type from path's data attribute or class
-              const marketType = path.dataset.marketType || (classStr.includes("market-mixed") ? "mixed" : classStr.includes("market-government_registries") ? "government_registries" : "customs");
-              const colors = getMarketColors(marketType);
-              path.style.setProperty("fill", colors.active.fill, "important");
-              path.style.setProperty("stroke", colors.active.stroke, "important");
-              path.style.setProperty("filter", colors.active.filter, "important");
-            } else if (!isActive) {
-              // Remove inline styles for non-active countries
-              const isHovered = classStr.includes("hovered");
-              if (!isHovered) {
-                path.style.removeProperty("fill");
-                path.style.removeProperty("stroke");
-                path.style.removeProperty("filter");
-              }
-            }
-          });
-        });
-      }, [selectedCountryCode, clearHoverState]);
+  }, [selectedCountryCode, clearHoverState]);
 
       // Apply market type filter to map paths
       useEffect(() => {
@@ -771,17 +772,17 @@ const MapChart = ({ selectedCountryCode, onCountrySelect, marketTypeFilter, onMa
   const legendItems = [
     {
       type: "customs",
-      color: "#d9e4f5",
+      color: "#007aff",
       label: t("marketCustomsDisplay", translations),
     },
     {
       type: "mixed",
-      color: "#d2dbe8",
+      color: "#19419F",
       label: t("marketMixedDisplay", translations),
     },
     {
       type: "government_registries",
-      color: "#e0e4ea",
+      color: "#3E2790",
       label: t("marketGovernmentRegistriesDisplay", translations),
     },
   ];

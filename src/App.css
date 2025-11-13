@@ -470,13 +470,14 @@ main {
 }
 
 .map-svg .map-country-path {
-  fill: #d9e4f5 !important;
+  fill: #007aff !important;
   stroke: #ffffff !important;
   stroke-width: 0.5;
   transition: fill 0.2s ease, stroke 0.2s ease, filter 0.2s ease;
   pointer-events: auto;
   cursor: pointer;
   outline: none !important;
+  filter: saturate(0.3);
 }
 
 .map-svg .map-country-path:focus,
@@ -487,74 +488,74 @@ main {
 
 /* Market-specific colors: Default (Customs) */
 .map-svg .map-country-path.has-data {
-  fill: #d9e4f5 !important; /* Inactive: Brand Blue */
+  fill: #007aff !important; /* Inactive: Brand Blue */
   stroke: #ffffff !important;
 }
 
 .map-svg .map-country-path.has-data.market-customs {
-  fill: #d9e4f5 !important; /* Inactive: Brand Blue */
+  fill: #007aff !important; /* Inactive: Brand Blue */
   stroke: #ffffff !important;
 }
 
 .map-svg .map-country-path.has-data.market-customs.hovered {
-  fill: #007aff !important; /* Active: Brand Blue */
+  fill: #0066d6 !important; /* Hover: Brand Blue */
   stroke: #ffffff !important;
-  filter: drop-shadow(0 2px 4px rgba(0, 122, 255, 0.3)) !important;
+  filter: saturate(1) drop-shadow(0 2px 4px rgba(0, 102, 214, 0.3)) !important;
 }
 
 .map-svg .map-country-path.has-data.market-customs.active {
-  fill: #007aff !important; /* Active: Brand Blue */
+  fill: #0052ad !important; /* Active: Brand Blue */
   stroke: #ffffff !important;
-  filter: drop-shadow(0 2px 4px rgba(0, 122, 255, 0.4)) !important;
+  filter: saturate(1) drop-shadow(0 2px 4px rgba(0, 82, 173, 0.4)) !important;
 }
 
 /* Mixed Market */
 .map-svg .map-country-path.has-data.market-mixed {
-  fill: #d2dbe8 !important; /* Inactive: Slate Blue */
+  fill: #19419F !important; /* Inactive: Deep Indigo */
   stroke: #ffffff !important;
 }
 
 .map-svg .map-country-path.has-data.market-mixed.hovered {
-  fill: #466b99 !important; /* Active: Slate Blue */
+  fill: #1F56D1 !important; /* Hover: Vivid Indigo */
   stroke: #ffffff !important;
-  filter: drop-shadow(0 2px 4px rgba(70, 107, 153, 0.3)) !important;
+  filter: saturate(1) drop-shadow(0 2px 4px rgba(31, 86, 209, 0.3)) !important;
 }
 
 .map-svg .map-country-path.has-data.market-mixed.active {
-  fill: #466b99 !important; /* Active: Slate Blue */
+  fill: #1849BD !important; /* Active: Bold Indigo */
   stroke: #ffffff !important;
-  filter: drop-shadow(0 2px 4px rgba(70, 107, 153, 0.4)) !important;
+  filter: saturate(1) drop-shadow(0 2px 4px rgba(24, 73, 189, 0.4)) !important;
 }
 
 /* Government Registries Market */
 .map-svg .map-country-path.has-data.market-government_registries {
-  fill: #e0e4ea !important; /* Inactive */
+  fill: #3E2790 !important; /* Inactive: Royal Violet */
   stroke: #ffffff !important;
 }
 
 .map-svg .map-country-path.has-data.market-government_registries.hovered {
-  fill: #546c7d !important; /* Active */
+  fill: #5235B2 !important; /* Hover: Vivid Violet */
   stroke: #ffffff !important;
-  filter: drop-shadow(0 2px 4px rgba(84, 108, 125, 0.3)) !important;
+  filter: saturate(1) drop-shadow(0 2px 4px rgba(82, 53, 178, 0.3)) !important;
 }
 
 .map-svg .map-country-path.has-data.market-government_registries.active {
-  fill: #546c7d !important; /* Active */
+  fill: #6247C4 !important; /* Active: Radiant Violet */
   stroke: #ffffff !important;
-  filter: drop-shadow(0 2px 4px rgba(84, 108, 125, 0.4)) !important;
+  filter: saturate(1) drop-shadow(0 2px 4px rgba(98, 71, 196, 0.4)) !important;
 }
 
 /* Fallback for has-data without market type (defaults to customs) */
 .map-svg .map-country-path.has-data.hovered:not(.market-mixed):not(.market-government_registries) {
-  fill: #007aff !important;
+  fill: #0066d6 !important;
   stroke: #ffffff !important;
-  filter: drop-shadow(0 2px 4px rgba(0, 122, 255, 0.3)) !important;
+  filter: saturate(1) drop-shadow(0 2px 4px rgba(0, 102, 214, 0.3)) !important;
 }
 
 .map-svg .map-country-path.has-data.active:not(.market-mixed):not(.market-government_registries) {
-  fill: #007aff !important;
+  fill: #0052ad !important;
   stroke: #ffffff !important;
-  filter: drop-shadow(0 2px 4px rgba(0, 122, 255, 0.4)) !important;
+  filter: saturate(1) drop-shadow(0 2px 4px rgba(0, 82, 173, 0.4)) !important;
 }
 
 /* Only apply no-data styles when has-data is NOT present */
