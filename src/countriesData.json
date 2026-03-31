@@ -3152,8 +3152,8 @@
   {
     "countryName": "Paraguay",
     "countryCode": "PRY",
-    "marketType": "mixed",
-    "marketCoverage": "50-70%",
+    "marketType": "customs",
+    "marketCoverage": "100%",
     "numberOfImporters": 9798,
     "dataColumns": [
       {
@@ -3163,8 +3163,8 @@
       },
       {
         "label": "Supplier (exporters)",
-        "value": "Yes",
-        "availability": "yes"
+        "value": "%",
+        "availability": "%"
       },
       {
         "label": "Country of Origin",
@@ -3178,13 +3178,13 @@
       },
       {
         "label": "Quantity",
-        "value": "70%",
-        "availability": "70%"
+        "value": "100%",
+        "availability": "100%"
       },
       {
         "label": "Price",
-        "value": "70%",
-        "availability": "70%"
+        "value": "100%",
+        "availability": "100%"
       },
       {
         "label": "Contact Data",
