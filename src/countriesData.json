@@ -3179,12 +3179,12 @@
       {
         "label": "Quantity",
         "value": "Yes",
-        "availability": "Yes"
+        "availability": "yes"
       },
       {
         "label": "Price",
         "value": "Yes",
-        "availability": "Yes"
+        "availability": "yes"
       },
       {
         "label": "Contact Data",
