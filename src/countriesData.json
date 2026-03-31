@@ -3178,13 +3178,13 @@
       },
       {
         "label": "Quantity",
-        "value": "100%",
-        "availability": "100%"
+        "value": "Yes",
+        "availability": "Yes"
       },
       {
         "label": "Price",
-        "value": "100%",
-        "availability": "100%"
+        "value": "Yes",
+        "availability": "Yes"
       },
       {
         "label": "Contact Data",
