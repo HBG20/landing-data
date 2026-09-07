@@ -39,6 +39,12 @@ export const translations = {
     summaryTitle: "Employing data to export has never been this easy",
     summaryDescription: "We built the first market intelligence software specifically for export managers who need reliable international data without investing months in sourcing it themselves.",
     
+    // Value cycle
+    cycleImageAlt: "Software, Market Analyst and Proactive Intelligence cycling around data",
+    cycleLine1: "<strong>xNova Software</strong> to see the data,",
+    cycleLine2: "<strong>Market Analyst</strong> to understand it,",
+    cycleLine3: "<strong>Proactive Intelligence</strong> to expand over time",
+    
     // Footer
     footerTagline: "Market intelligence software for exporting enterprises.",
     footerLogIn: "Log in",
@@ -105,6 +111,12 @@ export const translations = {
     summaryTitle: "Usar datos para exportar nunca ha sido tan fácil",
     summaryDescription: "Hemos construido el primer software de inteligencia de mercado específicamente para gestores de exportación que necesitan datos internacionales fiables sin invertir meses en obtenerlos ellos mismos.",
     
+    // Value cycle
+    cycleImageAlt: "Software, Market Analyst y Proactive Intelligence girando alrededor de los datos",
+    cycleLine1: "<strong>Software de xNova</strong> para ver los datos,",
+    cycleLine2: "<strong>Market Analyst</strong> para entenderlos,",
+    cycleLine3: "<strong>Proactive Intelligence</strong> para expandirse con el tiempo",
+    
     // Footer
     footerTagline: "Software de inteligencia de mercado para empresas exportadoras.",
     footerLogIn: "Iniciar sesión",
@@ -170,6 +182,12 @@ export const translations = {
     // Summary section
     summaryTitle: "Usare i dati per esportare non è mai stato così facile",
     summaryDescription: "Abbiamo costruito il primo software di intelligence di mercato specificamente per i responsabili delle esportazioni che hanno bisogno di dati internazionali affidabili senza investire mesi per ottenerli da soli.",
+    
+    // Value cycle
+    cycleImageAlt: "Software, Market Analyst e Proactive Intelligence che ruotano attorno ai dati",
+    cycleLine1: "<strong>Software di xNova</strong> per vedere i dati,",
+    cycleLine2: "<strong>Market Analyst</strong> per capirli,",
+    cycleLine3: "<strong>Proactive Intelligence</strong> per espandersi nel tempo",
     
     // Footer
     footerTagline: "Software di intelligence di mercato per aziende esportatrici.",

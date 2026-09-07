@@ -10,6 +10,7 @@ import itLocale from "i18n-iso-countries/langs/it.json";
 import LogoXNova from "./assets/logo-xnova.svg";
 import LogoXNovaBlanco from "./assets/Logo xNova Blanco.svg";
 import HeroIllustration from "./assets/landing-hero.svg";
+import DataCycleIllustration from "./assets/data-cycle.svg";
 import CustomsMarketIcon from "./assets/customs market.svg";
 import MixedMarketIcon from "./assets/Mixed market.svg";
 import NationalRegistriesMarketIcon from "./assets/National Registries Market.svg";
@@ -344,6 +345,19 @@ function App() {
               {t("summaryDescription", translations)}
             </p>
           </div>
+          <div className="value-cycle">
+            <img
+              className="value-cycle__image"
+              src={DataCycleIllustration}
+              alt={t("cycleImageAlt", translations)}
+            />
+            <div className="value-cycle__text">
+              <p dangerouslySetInnerHTML={{ __html: t("cycleLine1", translations) }} />
+              <p dangerouslySetInnerHTML={{ __html: t("cycleLine2", translations) }} />
+              <p dangerouslySetInnerHTML={{ __html: t("cycleLine3", translations) }} />
+            </div>
+          </div>
+
           <div className="market-cards">
             {marketCards.map((card) => (
               <article key={card.key}>

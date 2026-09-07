@@ -8822,8 +8822,8 @@
   {
     "countryName": "Great Britain",
     "countryCode": "GBR",
-    "marketType": "government_registries",
-    "marketCoverage": "70%",
+    "marketType": "mixed",
+    "marketCoverage": "50-70%",
     "numberOfImporters": 563865,
     "dataColumns": [
       {
@@ -8833,13 +8833,13 @@
       },
       {
         "label": "Supplier (exporters)",
-        "value": "No",
-        "availability": "no"
+        "value": "Yes",
+        "availability": "yes"
       },
       {
         "label": "Country of Origin",
-        "value": "No",
-        "availability": "no"
+        "value": "Yes",
+        "availability": "yes"
       },
       {
         "label": "Product",
@@ -8848,13 +8848,13 @@
       },
       {
         "label": "Quantity",
-        "value": "No",
-        "availability": "no"
+        "value": "70%",
+        "availability": "70%"
       },
       {
         "label": "Price",
-        "value": "No",
-        "availability": "no"
+        "value": "70%",
+        "availability": "70%"
       },
       {
         "label": "Contact Data",

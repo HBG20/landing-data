@@ -959,6 +959,40 @@ main {
   text-align: left;
 }
 
+.value-cycle {
+  display: grid;
+  grid-template-columns: minmax(0, 0.85fr) minmax(0, 1.15fr);
+  align-items: center;
+  gap: clamp(1.5rem, 5vw, 4rem);
+  text-align: left;
+}
+
+.value-cycle__image {
+  width: 100%;
+  max-width: 420px;
+  height: auto;
+  justify-self: center;
+}
+
+.value-cycle__text {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.value-cycle__text p {
+  margin: 0;
+  font-size: clamp(1.2rem, 2vw, 1.65rem);
+  line-height: 1.4;
+  color: #475569;
+  text-align: left;
+}
+
+.value-cycle__text strong {
+  color: #111827;
+  font-weight: 600;
+}
+
 .market-cards {
   display: grid;
   gap: 1.5rem;
@@ -1398,6 +1432,21 @@ main {
   .summary-header {
     grid-template-columns: 1fr;
     gap: 1rem;
+  }
+
+  .value-cycle {
+    grid-template-columns: 1fr;
+    gap: 1.75rem;
+    justify-items: center;
+    text-align: center;
+  }
+
+  .value-cycle__image {
+    max-width: 300px;
+  }
+
+  .value-cycle__text p {
+    text-align: center;
   }
 
   .footer__columns {

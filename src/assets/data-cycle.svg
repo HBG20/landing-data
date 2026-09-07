@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 720 720" width="720" height="720" role="img" aria-label="Software, Market Analyst and Proactive Intelligence cycling around Data">
+  <title>Software, Market Analyst and Proactive Intelligence around Data</title>
+  <defs>
+    <path id="ringLabel0" d="M 185.72 244.65 A 209.00 209.00 0 0 1 547.04 266.74" fill="none"/>
+    <path id="ringLabel1" d="M 547.04 266.74 A 209.00 209.00 0 0 1 347.24 568.61" fill="none"/>
+    <path id="ringLabel2" d="M 162.37 229.19 A 237.00 237.00 0 0 0 345.53 596.56" fill="none"/>
+  </defs>
+  <g>
+    <path d="M 143.49 235.00 A 250.00 250.00 0 0 1 576.51 235.00 L 565.27 272.87 L 529.74 262.00 A 196.00 196.00 0 0 0 190.26 262.00 L 181.90 225.80 Z" fill="#A6C2F4"/>
+    <path d="M 576.51 235.00 A 250.00 250.00 0 0 1 360.00 610.00 L 332.82 581.34 L 360.00 556.00 A 196.00 196.00 0 0 0 529.74 262.00 L 565.27 272.87 Z" fill="#D4E3FD"/>
+    <path d="M 360.00 610.00 A 250.00 250.00 0 0 1 143.49 235.00 L 181.90 225.80 L 190.26 262.00 A 196.00 196.00 0 0 0 360.00 556.00 L 332.82 581.34 Z" fill="#C4D8FB"/>
+  </g>
+  <g fill="#111111" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="41" font-weight="500" letter-spacing="0.4">
+    <text><textPath href="#ringLabel0" xlink:href="#ringLabel0" startOffset="50%" text-anchor="middle">Software</textPath></text>
+    <text><textPath href="#ringLabel1" xlink:href="#ringLabel1" startOffset="50%" text-anchor="middle">Market Analyst</textPath></text>
+    <text><textPath href="#ringLabel2" xlink:href="#ringLabel2" startOffset="50%" text-anchor="middle">Proactive Intelligence</textPath></text>
+  </g>
+  <circle cx="360.00" cy="360.00" r="148.00" fill="#3B6FE0"/>
+  <text x="360.00" y="360.00" fill="#ffffff" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="66" font-weight="400" text-anchor="middle" dominant-baseline="central">Data</text>
+  <g fill="none" stroke="#9FB3D4" stroke-width="2.6" stroke-linecap="round">
+    <path d="M 76.00 360.00 A 284.00 284.00 0 0 1 197.10 127.36"/>
+    <path d="M 197.10 127.36 L 189.39 142.51 M 197.10 127.36 L 180.23 129.43"/>
+    <path d="M 360.00 76.00 A 284.00 284.00 0 0 1 592.64 197.10"/>
+    <path d="M 592.64 197.10 L 577.49 189.39 M 592.64 197.10 L 590.57 180.23"/>
+    <path d="M 644.00 360.00 A 284.00 284.00 0 0 1 522.90 592.64"/>
+    <path d="M 522.90 592.64 L 530.61 577.49 M 522.90 592.64 L 539.77 590.57"/>
+    <path d="M 360.00 644.00 A 284.00 284.00 0 0 1 127.36 522.90"/>
+    <path d="M 127.36 522.90 L 142.51 530.61 M 127.36 522.90 L 129.43 539.77"/>
+  </g>
+</svg>
