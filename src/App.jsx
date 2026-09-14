@@ -402,7 +402,7 @@ function App() {
             </a>
             <p>{t("footerTagline", translations)}</p>
             <div className="footer-actions">
-              <a href="https://xnovainternational.eu.auth0.com/login?state=hKFo2SBkSG4wc2JSQmJkLVctZFNPbnZialB0bkNKR3lnLW5TTqFupWxvZ2luo3RpZNkgYWxoMXFjQ3FlQnYyREU1RE15RmJ2UlQtRV81aGpORUejY2lk2SBERXFLTmJkM2kyeVlDeEoxRHRWR08yM1F5TEJ5cDV3NQ&client=DEqKNbd3i2yYCxJ1DtVGO23QyLByp5w5&protocol=oauth2&scope=openid%20profile%20email&response_type=code&redirect_uri=https%3A%2F%2Fapp.xnovainternational.com%2Fapi%2Fauth%2Fcallback&audience=https%3A%2F%2Fapp.xnovainternational.com%2Fapi&nonce=1Vy3dLQYemC9MHC9llxscX2qutSxBopPlWR2GjXv4qg&code_challenge_method=S256&code_challenge=gypzw9C7arnCv2gGnFffmGlpI4lY4ngGUMsLuNoRBAM" className="footer-btn-primary">{t("footerLogIn", translations)}</a>
+              <a href="https://app.xnovainternational.com/" className="footer-btn-primary">{t("footerLogIn", translations)}</a>
               <a href="https://www.xnovainternational.com/demo" className="footer-btn-secondary">{t("footerBookDemo", translations)}</a>
             </div>
             <div className="footer-social">
