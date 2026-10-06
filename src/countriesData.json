@@ -4,7 +4,7 @@
     "countryCode": "USA",
     "marketType": "customs",
     "marketCoverage": "100%",
-    "numberOfImporters": 6394133,
+    "numberOfImporters": 6186646,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -49,7 +49,7 @@
     "countryCode": "ECU",
     "marketType": "customs",
     "marketCoverage": "100%",
-    "numberOfImporters": 538473,
+    "numberOfImporters": 420933,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -94,7 +94,7 @@
     "countryCode": "IND",
     "marketType": "customs",
     "marketCoverage": "100%",
-    "numberOfImporters": 105936,
+    "numberOfImporters": 183164,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -139,7 +139,7 @@
     "countryCode": "TUR",
     "marketType": "customs",
     "marketCoverage": "100%",
-    "numberOfImporters": 102502,
+    "numberOfImporters": 114186,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -184,7 +184,7 @@
     "countryCode": "CHN",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 83187,
+    "numberOfImporters": 157799,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -229,7 +229,7 @@
     "countryCode": "VNM",
     "marketType": "customs",
     "marketCoverage": "100%",
-    "numberOfImporters": 82562,
+    "numberOfImporters": 123799,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -274,7 +274,7 @@
     "countryCode": "PHL",
     "marketType": "customs",
     "marketCoverage": "100%",
-    "numberOfImporters": 82332,
+    "numberOfImporters": 106231,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -319,7 +319,7 @@
     "countryCode": "CRI",
     "marketType": "customs",
     "marketCoverage": "100%",
-    "numberOfImporters": 79490,
+    "numberOfImporters": 90650,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -364,7 +364,7 @@
     "countryCode": "MEX",
     "marketType": "customs",
     "marketCoverage": "100%",
-    "numberOfImporters": 78879,
+    "numberOfImporters": 106025,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -409,7 +409,7 @@
     "countryCode": "PER",
     "marketType": "customs",
     "marketCoverage": "100%",
-    "numberOfImporters": 64456,
+    "numberOfImporters": 65228,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -454,7 +454,7 @@
     "countryCode": "DEU",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 62187,
+    "numberOfImporters": 93253,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -499,7 +499,7 @@
     "countryCode": "RUS",
     "marketType": "customs",
     "marketCoverage": "100%",
-    "numberOfImporters": 61628,
+    "numberOfImporters": 100630,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -544,7 +544,7 @@
     "countryCode": "ARE",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 57591,
+    "numberOfImporters": 81882,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -589,7 +589,7 @@
     "countryCode": "COL",
     "marketType": "customs",
     "marketCoverage": "100%",
-    "numberOfImporters": 54186,
+    "numberOfImporters": 58410,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -634,7 +634,7 @@
     "countryCode": "BOL",
     "marketType": "customs",
     "marketCoverage": "100%",
-    "numberOfImporters": 53031,
+    "numberOfImporters": 59448,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -679,7 +679,7 @@
     "countryCode": "ITA",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 44828,
+    "numberOfImporters": 75852,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -724,7 +724,7 @@
     "countryCode": "KEN",
     "marketType": "customs",
     "marketCoverage": "100%",
-    "numberOfImporters": 43845,
+    "numberOfImporters": 86103,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -769,7 +769,7 @@
     "countryCode": "ESP",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 42265,
+    "numberOfImporters": 69968,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -814,7 +814,7 @@
     "countryCode": "UKR",
     "marketType": "customs",
     "marketCoverage": "100%",
-    "numberOfImporters": 41788,
+    "numberOfImporters": 152603,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -859,7 +859,7 @@
     "countryCode": "JPN",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 41760,
+    "numberOfImporters": 53185,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -904,7 +904,7 @@
     "countryCode": "GHA",
     "marketType": "customs",
     "marketCoverage": "100%",
-    "numberOfImporters": 41136,
+    "numberOfImporters": 99698,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -949,7 +949,7 @@
     "countryCode": "UGA",
     "marketType": "customs",
     "marketCoverage": "100%",
-    "numberOfImporters": 40634,
+    "numberOfImporters": 115885,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -994,7 +994,7 @@
     "countryCode": "FRA",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 39519,
+    "numberOfImporters": 74976,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -1039,7 +1039,7 @@
     "countryCode": "NLD",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 39494,
+    "numberOfImporters": 95873,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -1084,7 +1084,7 @@
     "countryCode": "ARG",
     "marketType": "customs",
     "marketCoverage": "100%",
-    "numberOfImporters": 37189,
+    "numberOfImporters": 39266,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -1129,7 +1129,7 @@
     "countryCode": "NPL",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 36854,
+    "numberOfImporters": 45735,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -1174,7 +1174,7 @@
     "countryCode": "PAN",
     "marketType": "customs",
     "marketCoverage": "100%",
-    "numberOfImporters": 36670,
+    "numberOfImporters": 42779,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -1219,7 +1219,7 @@
     "countryCode": "UZB",
     "marketType": "customs",
     "marketCoverage": "100%",
-    "numberOfImporters": 36146,
+    "numberOfImporters": 121000,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -1264,7 +1264,7 @@
     "countryCode": "SAU",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 35591,
+    "numberOfImporters": 49830,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -1309,7 +1309,7 @@
     "countryCode": "AUS",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 34577,
+    "numberOfImporters": 59948,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -1354,7 +1354,7 @@
     "countryCode": "KOR",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 32554,
+    "numberOfImporters": 49072,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -1399,7 +1399,7 @@
     "countryCode": "KAZ",
     "marketType": "customs",
     "marketCoverage": "100%",
-    "numberOfImporters": 32402,
+    "numberOfImporters": 216061,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -1444,7 +1444,7 @@
     "countryCode": "PAK",
     "marketType": "customs",
     "marketCoverage": "100%",
-    "numberOfImporters": 31213,
+    "numberOfImporters": 132590,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -1489,7 +1489,7 @@
     "countryCode": "BRA",
     "marketType": "customs",
     "marketCoverage": "100%",
-    "numberOfImporters": 30521,
+    "numberOfImporters": 43318,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -1534,7 +1534,7 @@
     "countryCode": "LKA",
     "marketType": "customs",
     "marketCoverage": "100%",
-    "numberOfImporters": 30284,
+    "numberOfImporters": 64516,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -1579,7 +1579,7 @@
     "countryCode": "POL",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 27174,
+    "numberOfImporters": 36538,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -1624,7 +1624,7 @@
     "countryCode": "MYS",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 25509,
+    "numberOfImporters": 34237,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -1669,7 +1669,7 @@
     "countryCode": "BGD",
     "marketType": "customs",
     "marketCoverage": "100%",
-    "numberOfImporters": 24912,
+    "numberOfImporters": 37828,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -1714,7 +1714,7 @@
     "countryCode": "NGA",
     "marketType": "customs",
     "marketCoverage": "100%",
-    "numberOfImporters": 23716,
+    "numberOfImporters": 40332,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -1759,7 +1759,7 @@
     "countryCode": "ZAF",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 23157,
+    "numberOfImporters": 38173,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -1804,7 +1804,7 @@
     "countryCode": "URY",
     "marketType": "customs",
     "marketCoverage": "100%",
-    "numberOfImporters": 22847,
+    "numberOfImporters": 27826,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -1849,7 +1849,7 @@
     "countryCode": "SGP",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 21604,
+    "numberOfImporters": 33385,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -1894,7 +1894,7 @@
     "countryCode": "IDN",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 21320,
+    "numberOfImporters": 27374,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -1939,7 +1939,7 @@
     "countryCode": "PRT",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 21051,
+    "numberOfImporters": 38438,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -1984,7 +1984,7 @@
     "countryCode": "VEN",
     "marketType": "customs",
     "marketCoverage": "100%",
-    "numberOfImporters": 20423,
+    "numberOfImporters": 18997,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -2029,7 +2029,7 @@
     "countryCode": "THA",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 20361,
+    "numberOfImporters": 26450,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -2074,7 +2074,7 @@
     "countryCode": "BWA",
     "marketType": "customs",
     "marketCoverage": "100%",
-    "numberOfImporters": 20098,
+    "numberOfImporters": 45517,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -2119,7 +2119,7 @@
     "countryCode": "GRC",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 19664,
+    "numberOfImporters": 28861,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -2164,7 +2164,7 @@
     "countryCode": "HKG",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 19267,
+    "numberOfImporters": 36800,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -2209,7 +2209,7 @@
     "countryCode": "ROU",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 18064,
+    "numberOfImporters": 23870,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -2254,7 +2254,7 @@
     "countryCode": "EGY",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 16793,
+    "numberOfImporters": 28709,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -2299,7 +2299,7 @@
     "countryCode": "BEL",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 16638,
+    "numberOfImporters": 28749,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -2344,7 +2344,7 @@
     "countryCode": "TWN",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 16412,
+    "numberOfImporters": 30158,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -2389,7 +2389,7 @@
     "countryCode": "IRQ",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 16395,
+    "numberOfImporters": 19041,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -2434,7 +2434,7 @@
     "countryCode": "GEO",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 15207,
+    "numberOfImporters": 17553,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -2479,7 +2479,7 @@
     "countryCode": "ETH",
     "marketType": "customs",
     "marketCoverage": "100%",
-    "numberOfImporters": 14839,
+    "numberOfImporters": 24595,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -2525,7 +2525,7 @@
     "id": "CD",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 14648,
+    "numberOfImporters": 43810,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -2569,7 +2569,7 @@
     "countryCode": "RWA",
     "marketType": "customs",
     "marketCoverage": "100%",
-    "numberOfImporters": 13927,
+    "numberOfImporters": 21713,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -2614,7 +2614,7 @@
     "countryCode": "ISR",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 13835,
+    "numberOfImporters": 19246,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -2659,7 +2659,7 @@
     "countryCode": "BTN",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 13448,
+    "numberOfImporters": 18214,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -2704,7 +2704,7 @@
     "countryCode": "CHL",
     "marketType": "customs",
     "marketCoverage": "100%",
-    "numberOfImporters": 13146,
+    "numberOfImporters": 14429,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -2749,7 +2749,7 @@
     "countryCode": "AZE",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 13111,
+    "numberOfImporters": 14411,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -2794,7 +2794,7 @@
     "countryCode": "MAR",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 12327,
+    "numberOfImporters": 15064,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -2839,7 +2839,7 @@
     "countryCode": "SWE",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 12252,
+    "numberOfImporters": 17924,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -2884,7 +2884,7 @@
     "countryCode": "DZA",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 11494,
+    "numberOfImporters": 23888,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -2929,7 +2929,7 @@
     "countryCode": "BGR",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 10949,
+    "numberOfImporters": 11613,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -2974,7 +2974,7 @@
     "countryCode": "BDI",
     "marketType": "customs",
     "marketCoverage": "100%",
-    "numberOfImporters": 10577,
+    "numberOfImporters": 14170,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -3019,7 +3019,7 @@
     "countryCode": "QAT",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 10569,
+    "numberOfImporters": 14348,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -3064,7 +3064,7 @@
     "countryCode": "GTM",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 10353,
+    "numberOfImporters": 11983,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -3109,7 +3109,7 @@
     "countryCode": "DOM",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 10278,
+    "numberOfImporters": 11996,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -3154,7 +3154,7 @@
     "countryCode": "PRY",
     "marketType": "customs",
     "marketCoverage": "100%",
-    "numberOfImporters": 9798,
+    "numberOfImporters": 10187,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -3199,7 +3199,7 @@
     "countryCode": "AGO",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 9657,
+    "numberOfImporters": 18377,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -3245,7 +3245,7 @@
     "id": "OM",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 9487,
+    "numberOfImporters": 12413,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -3289,7 +3289,7 @@
     "countryCode": "KWT",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 9134,
+    "numberOfImporters": 13256,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -3334,7 +3334,7 @@
     "countryCode": "NZL",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 8530,
+    "numberOfImporters": 13748,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -3379,7 +3379,7 @@
     "countryCode": "CIV",
     "marketType": "customs",
     "marketCoverage": "100%",
-    "numberOfImporters": 8526,
+    "numberOfImporters": 20151,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -3424,7 +3424,7 @@
     "countryCode": "SEN",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 8485,
+    "numberOfImporters": 14023,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -3469,7 +3469,7 @@
     "countryCode": "CHE",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 8447,
+    "numberOfImporters": 27729,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -3514,7 +3514,7 @@
     "countryCode": "HUN",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 8132,
+    "numberOfImporters": 13828,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -3559,7 +3559,7 @@
     "countryCode": "CZE",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 8037,
+    "numberOfImporters": 15735,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -3604,7 +3604,7 @@
     "countryCode": "MWI",
     "marketType": "customs",
     "marketCoverage": "100%",
-    "numberOfImporters": 8007,
+    "numberOfImporters": 28479,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -3649,7 +3649,7 @@
     "countryCode": "LBY",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 7902,
+    "numberOfImporters": 10173,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -3694,7 +3694,7 @@
     "countryCode": "TZA",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 7893,
+    "numberOfImporters": 13858,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -3739,7 +3739,7 @@
     "countryCode": "SSD",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 7649,
+    "numberOfImporters": 17032,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -3784,7 +3784,7 @@
     "countryCode": "AUT",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 7476,
+    "numberOfImporters": 15166,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -3829,7 +3829,7 @@
     "countryCode": "IRL",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 7408,
+    "numberOfImporters": 10664,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -3874,7 +3874,7 @@
     "countryCode": "MDA",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 7296,
+    "numberOfImporters": 9051,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -3919,7 +3919,7 @@
     "countryCode": "NIC",
     "marketType": "customs",
     "marketCoverage": "100%",
-    "numberOfImporters": 7143,
+    "numberOfImporters": 4847,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -3964,7 +3964,7 @@
     "countryCode": "MDV",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 6990,
+    "numberOfImporters": 9085,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -4009,7 +4009,7 @@
     "countryCode": "HND",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 6953,
+    "numberOfImporters": 8569,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -4054,7 +4054,7 @@
     "countryCode": "DNK",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 6881,
+    "numberOfImporters": 12500,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -4099,7 +4099,7 @@
     "countryCode": "TUN",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 6822,
+    "numberOfImporters": 9755,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -4144,7 +4144,7 @@
     "countryCode": "JOR",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 6706,
+    "numberOfImporters": 10188,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -4189,7 +4189,7 @@
     "countryCode": "SLV",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 6613,
+    "numberOfImporters": 7391,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -4234,7 +4234,7 @@
     "countryCode": "SRB",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 6430,
+    "numberOfImporters": 8392,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -4279,7 +4279,7 @@
     "countryCode": "LBN",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 6403,
+    "numberOfImporters": 9215,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -4324,7 +4324,7 @@
     "countryCode": "NOR",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 6070,
+    "numberOfImporters": 8132,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -4369,7 +4369,7 @@
     "countryCode": "BHR",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 5344,
+    "numberOfImporters": 6663,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -4414,7 +4414,7 @@
     "countryCode": "SYR",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 5278,
+    "numberOfImporters": 7464,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -4459,7 +4459,7 @@
     "countryCode": "SVK",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 5261,
+    "numberOfImporters": 7207,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -4504,7 +4504,7 @@
     "countryCode": "IRN",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 5115,
+    "numberOfImporters": 8315,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -4549,7 +4549,7 @@
     "countryCode": "VCT",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 5011,
+    "numberOfImporters": 16193,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -4594,7 +4594,7 @@
     "countryCode": "TJK",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 4850,
+    "numberOfImporters": 10496,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -4639,7 +4639,7 @@
     "countryCode": "HRV",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 4810,
+    "numberOfImporters": 6671,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -4684,7 +4684,7 @@
     "countryCode": "LTU",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 4810,
+    "numberOfImporters": 7070,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -4729,7 +4729,7 @@
     "countryCode": "MOZ",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 4673,
+    "numberOfImporters": 8034,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -4774,7 +4774,7 @@
     "countryCode": "ALB",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 4292,
+    "numberOfImporters": 4941,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -4819,7 +4819,7 @@
     "countryCode": "LSO",
     "marketType": "customs",
     "marketCoverage": "100%",
-    "numberOfImporters": 4260,
+    "numberOfImporters": 14369,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -4864,7 +4864,7 @@
     "countryCode": "TTO",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 4152,
+    "numberOfImporters": 4736,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -4909,7 +4909,7 @@
     "countryCode": "FIN",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 4090,
+    "numberOfImporters": 10159,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -4954,7 +4954,7 @@
     "countryCode": "BHS",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 4068,
+    "numberOfImporters": 5063,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -4999,7 +4999,7 @@
     "countryCode": "TKM",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 3697,
+    "numberOfImporters": 5549,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -5044,7 +5044,7 @@
     "countryCode": "SVN",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 3683,
+    "numberOfImporters": 6894,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -5089,7 +5089,7 @@
     "countryCode": "MKD",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 3655,
+    "numberOfImporters": 4116,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -5134,7 +5134,7 @@
     "countryCode": "GUY",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 3569,
+    "numberOfImporters": 4568,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -5179,7 +5179,7 @@
     "countryCode": "JAM",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 3563,
+    "numberOfImporters": 4060,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -5224,7 +5224,7 @@
     "countryCode": "MUS",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 3561,
+    "numberOfImporters": 6101,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -5269,7 +5269,7 @@
     "countryCode": "ZMB",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 3512,
+    "numberOfImporters": 6967,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -5314,7 +5314,7 @@
     "countryCode": "BIH",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 3449,
+    "numberOfImporters": 3883,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -5359,7 +5359,7 @@
     "countryCode": "ZWE",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 3401,
+    "numberOfImporters": 6585,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -5404,7 +5404,7 @@
     "countryCode": "MLI",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 3392,
+    "numberOfImporters": 9780,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -5449,7 +5449,7 @@
     "countryCode": "GIN",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 3379,
+    "numberOfImporters": 6043,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -5494,7 +5494,7 @@
     "countryCode": "LVA",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 3353,
+    "numberOfImporters": 4428,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -5539,7 +5539,7 @@
     "countryCode": "BFA",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 3281,
+    "numberOfImporters": 7234,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -5584,7 +5584,7 @@
     "countryCode": "KGZ",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 3191,
+    "numberOfImporters": 6448,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -5629,7 +5629,7 @@
     "countryCode": "KHM",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 3179,
+    "numberOfImporters": 5363,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -5674,7 +5674,7 @@
     "countryCode": "LCA",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 3025,
+    "numberOfImporters": 10252,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -5719,7 +5719,7 @@
     "countryCode": "YEM",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 3006,
+    "numberOfImporters": 4961,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -5764,7 +5764,7 @@
     "countryCode": "AFG",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 2954,
+    "numberOfImporters": 6723,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -5809,7 +5809,7 @@
     "countryCode": "MLT",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 2925,
+    "numberOfImporters": 3969,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -5854,7 +5854,7 @@
     "countryCode": "DJI",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 2495,
+    "numberOfImporters": 4286,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -5899,7 +5899,7 @@
     "countryCode": "EST",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 2486,
+    "numberOfImporters": 3346,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -5944,7 +5944,7 @@
     "countryCode": "MNG",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 2396,
+    "numberOfImporters": 3242,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -5989,7 +5989,7 @@
     "countryCode": "SOM",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 2371,
+    "numberOfImporters": 4313,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -6034,7 +6034,7 @@
     "countryCode": "BLR",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 2369,
+    "numberOfImporters": 3937,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -6079,7 +6079,7 @@
     "countryCode": "SDN",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 2325,
+    "numberOfImporters": 4697,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -6124,7 +6124,7 @@
     "countryCode": "TGO",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 2245,
+    "numberOfImporters": 4897,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -6169,7 +6169,7 @@
     "countryCode": "MRT",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 2128,
+    "numberOfImporters": 3233,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -6214,7 +6214,7 @@
     "countryCode": "SLE",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 2114,
+    "numberOfImporters": 3574,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -6259,7 +6259,7 @@
     "countryCode": "ISL",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 2112,
+    "numberOfImporters": 2609,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -6304,7 +6304,7 @@
     "countryCode": "MMR",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 2082,
+    "numberOfImporters": 3748,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -6349,7 +6349,7 @@
     "countryCode": "SYC",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 1838,
+    "numberOfImporters": 2238,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -6394,7 +6394,7 @@
     "countryCode": "CYP",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 1827,
+    "numberOfImporters": 4040,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -6439,7 +6439,7 @@
     "countryCode": "GAB",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 1776,
+    "numberOfImporters": 3021,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -6484,7 +6484,7 @@
     "countryCode": "CUB",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 1745,
+    "numberOfImporters": 2643,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -6529,7 +6529,7 @@
     "countryCode": "BEN",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 1728,
+    "numberOfImporters": 3534,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -6574,7 +6574,7 @@
     "countryCode": "LBR",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 1688,
+    "numberOfImporters": 3056,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -6619,7 +6619,7 @@
     "countryCode": "MDG",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 1665,
+    "numberOfImporters": 2981,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -6664,7 +6664,7 @@
     "countryCode": "HTI",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 1530,
+    "numberOfImporters": 1802,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -6709,7 +6709,7 @@
     "countryCode": "BRB",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 1507,
+    "numberOfImporters": 1966,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -6754,7 +6754,7 @@
     "countryCode": "MNE",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 1490,
+    "numberOfImporters": 1510,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -6799,7 +6799,7 @@
     "countryCode": "BMU",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 1475,
+    "numberOfImporters": 67,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -6844,7 +6844,7 @@
     "countryCode": "BLZ",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 1396,
+    "numberOfImporters": 2462,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -6889,7 +6889,7 @@
     "countryCode": "SUR",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 1375,
+    "numberOfImporters": 1510,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -6934,7 +6934,7 @@
     "countryCode": "ATG",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 1248,
+    "numberOfImporters": 1541,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -6979,7 +6979,7 @@
     "countryCode": "GMB",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 1215,
+    "numberOfImporters": 2289,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -7024,7 +7024,7 @@
     "countryCode": "GRD",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 1168,
+    "numberOfImporters": 1753,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -7069,7 +7069,7 @@
     "countryCode": "GNQ",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 1087,
+    "numberOfImporters": 1372,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -7114,7 +7114,7 @@
     "countryCode": "LUX",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 951,
+    "numberOfImporters": 1532,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -7159,7 +7159,7 @@
     "countryCode": "STP",
     "marketType": "customs",
     "marketCoverage": "100%",
-    "numberOfImporters": 934,
+    "numberOfImporters": 2555,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -7205,7 +7205,7 @@
     "id": "CG",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 928,
+    "numberOfImporters": 1592,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -7249,7 +7249,7 @@
     "countryCode": "LAO",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 909,
+    "numberOfImporters": 1381,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -7294,7 +7294,7 @@
     "countryCode": "ARM",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 868,
+    "numberOfImporters": 1910,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -7339,7 +7339,7 @@
     "countryCode": "FJI",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 860,
+    "numberOfImporters": 1454,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -7384,7 +7384,7 @@
     "countryCode": "PNG",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 716,
+    "numberOfImporters": 1127,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -7429,7 +7429,7 @@
     "countryCode": "COM",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 689,
+    "numberOfImporters": 1104,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -7474,7 +7474,7 @@
     "countryCode": "CMR",
     "marketType": "customs",
     "marketCoverage": "100%",
-    "numberOfImporters": 683,
+    "numberOfImporters": 9606,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -7519,7 +7519,7 @@
     "countryCode": "BRN",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 663,
+    "numberOfImporters": 1006,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -7564,7 +7564,7 @@
     "countryCode": "DMA",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 647,
+    "numberOfImporters": 1070,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -7609,7 +7609,7 @@
     "countryCode": "KNA",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 512,
+    "numberOfImporters": 686,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -7654,7 +7654,7 @@
     "countryCode": "WSM",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 506,
+    "numberOfImporters": 720,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -7699,7 +7699,7 @@
     "countryCode": "ERI",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 438,
+    "numberOfImporters": 574,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -7744,7 +7744,7 @@
     "countryCode": "TCD",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 411,
+    "numberOfImporters": 1111,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -7789,7 +7789,7 @@
     "countryCode": "NER",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 358,
+    "numberOfImporters": 880,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -7834,7 +7834,7 @@
     "countryCode": "MHL",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 322,
+    "numberOfImporters": 804,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -7879,7 +7879,7 @@
     "countryCode": "VUT",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 265,
+    "numberOfImporters": 415,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -7924,7 +7924,7 @@
     "countryCode": "CPV",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 213,
+    "numberOfImporters": 363,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -7969,7 +7969,7 @@
     "countryCode": "FSM",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 172,
+    "numberOfImporters": 249,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -8014,7 +8014,7 @@
     "countryCode": "GNB",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 169,
+    "numberOfImporters": 406,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -8059,7 +8059,7 @@
     "countryCode": "SWZ",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 160,
+    "numberOfImporters": 899,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -8104,7 +8104,7 @@
     "countryCode": "TLS",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 150,
+    "numberOfImporters": 261,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -8149,7 +8149,7 @@
     "countryCode": "SLB",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 148,
+    "numberOfImporters": 267,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -8194,7 +8194,7 @@
     "countryCode": "CAF",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 134,
+    "numberOfImporters": 279,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -8239,7 +8239,7 @@
     "countryCode": "TON",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 100,
+    "numberOfImporters": 152,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -8284,7 +8284,7 @@
     "countryCode": "LIE",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 98,
+    "numberOfImporters": 208,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -8329,7 +8329,7 @@
     "countryCode": "PLW",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 87,
+    "numberOfImporters": 194,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -8374,7 +8374,7 @@
     "countryCode": "MCO",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 86,
+    "numberOfImporters": 224,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -8419,7 +8419,7 @@
     "countryCode": "KIR",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 84,
+    "numberOfImporters": 137,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -8464,7 +8464,7 @@
     "countryCode": "PRK",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 83,
+    "numberOfImporters": 127,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -8509,7 +8509,7 @@
     "countryCode": "AND",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 50,
+    "numberOfImporters": 274,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -8554,7 +8554,7 @@
     "countryCode": "SMR",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 50,
+    "numberOfImporters": 135,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -8599,7 +8599,7 @@
     "countryCode": "TUV",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 10,
+    "numberOfImporters": 22,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -8644,7 +8644,7 @@
     "countryCode": "VAT",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 7,
+    "numberOfImporters": 14,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -8734,7 +8734,7 @@
     "countryCode": "NRU",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 4,
+    "numberOfImporters": 12,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -8779,7 +8779,7 @@
     "countryCode": "CAN",
     "marketType": "government_registries",
     "marketCoverage": "70%",
-    "numberOfImporters": 206956,
+    "numberOfImporters": 242378,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -8824,7 +8824,7 @@
     "countryCode": "GBR",
     "marketType": "mixed",
     "marketCoverage": "50-70%",
-    "numberOfImporters": 563865,
+    "numberOfImporters": 544499,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -8869,7 +8869,7 @@
     "countryCode": "NAM",
     "marketType": "customs",
     "marketCoverage": "100%",
-    "numberOfImporters": 20672,
+    "numberOfImporters": 52494,
     "dataColumns": [
       {
         "label": "Importer Name",
@@ -8914,7 +8914,7 @@
     "countryCode": "PRI",
     "marketType": "customs",
     "marketCoverage": "100%",
-    "numberOfImporters": null,
+    "numberOfImporters": 4,
     "dataColumns": [
       {
         "label": "Importer Name",

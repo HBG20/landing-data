@@ -43,7 +43,7 @@ export const translations = {
     cycleImageAlt: "Software, Market Analyst and Proactive Intelligence cycling around data",
     cycleLine1: "<strong>xNova Software</strong> to see the data,",
     cycleLine2: "<strong>Market Analyst</strong> to understand it,",
-    cycleLine3: "<strong>Proactive Intelligence</strong> to expand over time",
+    cycleLine3: "<strong>Proactive Intelligence</strong> so AI works for you",
     
     // Footer
     footerTagline: "Market intelligence software for exporting enterprises.",
@@ -115,7 +115,7 @@ export const translations = {
     cycleImageAlt: "Software, Market Analyst y Proactive Intelligence girando alrededor de los datos",
     cycleLine1: "<strong>Software de xNova</strong> para ver los datos,",
     cycleLine2: "<strong>Market Analyst</strong> para entenderlos,",
-    cycleLine3: "<strong>Proactive Intelligence</strong> para expandirse con el tiempo",
+    cycleLine3: "<strong>Proactive Intelligence</strong> para que la IA trabaje para ti",
     
     // Footer
     footerTagline: "Software de inteligencia de mercado para empresas exportadoras.",
@@ -187,7 +187,7 @@ export const translations = {
     cycleImageAlt: "Software, Market Analyst e Proactive Intelligence che ruotano attorno ai dati",
     cycleLine1: "<strong>Software di xNova</strong> per vedere i dati,",
     cycleLine2: "<strong>Market Analyst</strong> per capirli,",
-    cycleLine3: "<strong>Proactive Intelligence</strong> per espandersi nel tempo",
+    cycleLine3: "<strong>Proactive Intelligence</strong> perché l'IA lavori per te",
     
     // Footer
     footerTagline: "Software di intelligence di mercato per aziende esportatrici.",
