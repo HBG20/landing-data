@@ -13,7 +13,6 @@ import HeroIllustration from "./assets/landing-hero.svg";
 import DataCycleIllustration from "./assets/data-cycle.svg";
 import CustomsMarketIcon from "./assets/customs market.svg";
 import MixedMarketIcon from "./assets/Mixed market.svg";
-import NationalRegistriesMarketIcon from "./assets/National Registries Market.svg";
 import IVACELogo from "./assets/IVACE.png";
 import KitDigitalLogo from "./assets/Kit digital.webp";
 import EnisaLogo from "./assets/Enisa.png";
@@ -28,7 +27,6 @@ countriesLib.registerLocale(itLocale);
 const marketIcon = {
   customs: CustomsMarketIcon,
   mixed: MixedMarketIcon,
-  government_registries: NationalRegistriesMarketIcon,
 };
 
 const LocaleSelector = ({ locale, setLocale }) => {
@@ -125,7 +123,6 @@ function App() {
   const { locale, setLocale, t } = useI18n();
   const [selectedCountry, setSelectedCountry] = useState(null);
   const [searchTerm, setSearchTerm] = useState("");
-  const [showArcade, setShowArcade] = useState(false);
   const [marketTypeFilter, setMarketTypeFilter] = useState(null);
 
   // Register country locale based on current locale
@@ -161,17 +158,6 @@ function App() {
           ? "Integrazione di tutte le fonti disponibili di commercio internazionale: registri ufficiali, dati specchio e registri di spedizione."
           : "Integration of all available international trade sources: official registries, mirror data and shipping records.",
       icon: MixedMarketIcon,
-    },
-    {
-      key: "government_registries",
-      title: t("marketGovernmentRegistries", translations),
-      description:
-        locale === "es"
-          ? "Obtenido de instituciones gubernamentales y proveedores líderes mundiales para ofrecer la visión más completa del importador."
-          : locale === "it"
-          ? "Provenienti da istituzioni governative e provider leader mondiali per offrire la visione più completa dell'importatore."
-          : "Sourced from government institutions and world-leading providers to offer the most complete importer view.",
-      icon: NationalRegistriesMarketIcon,
     },
   ], [locale, t]);
 
@@ -224,9 +210,6 @@ function App() {
     }
   }, [marketTypeFilter, selectedCountry]);
 
-  const openArcade = () => setShowArcade(true);
-  const closeArcade = () => setShowArcade(false);
-
   return (
     <div className="page">
       <header className="top-nav">
@@ -245,14 +228,6 @@ function App() {
           <div className="hero-content">
             <h1>{t("heroTitle", translations)}</h1>
             <p dangerouslySetInnerHTML={{ __html: t("heroDescription", translations) }} />
-            <div className="hero-cta">
-              <a className="btn btn-primary" href="https://www.xnovainternational.com/es/demo">
-                {t("heroCtaPrimary", translations)}
-              </a>
-              <button className="btn btn-outline" type="button" onClick={openArcade}>
-                {t("heroCtaSecondary", translations)}
-              </button>
-            </div>
           </div>
         </section>
 
@@ -376,26 +351,6 @@ function App() {
         <img className="hero-image" src={HeroIllustration} alt="Screens preview of xNova platform" />
       </main>
 
-      {showArcade && (
-        <div className="arcade-modal-backdrop" role="dialog" aria-modal="true">
-          <div className="arcade-modal">
-            <button className="arcade-modal__close" type="button" onClick={closeArcade} aria-label="Close demo">
-              ×
-            </button>
-            <div style={{ position: 'relative', paddingBottom: 'calc(54.02777777777777% + 41px)', height: '0', width: '100%' }}>
-              <iframe
-                src="https://demo.arcade.software/g63WbUIVM2gJObiCSX8o?embed&embed_mobile=tab&embed_desktop=inline&show_copy_link=true"
-                title="Find and Analyze Importers for a Product in Mexico"
-                frameBorder="0"
-                loading="lazy"
-                allowFullScreen
-                allow="clipboard-write"
-                style={{ position: 'absolute', top: 0, left: 0, width: '100%', height: '100%', colorScheme: 'light' }}
-              />
-            </div>
-          </div>
-        </div>
-      )}
 
       <footer className="footer">
         <div className="footer__top">
@@ -404,10 +359,6 @@ function App() {
               <img src={LogoXNovaBlanco} alt="xNova International" className="footer-logo-img" />
             </a>
             <p>{t("footerTagline", translations)}</p>
-            <div className="footer-actions">
-              <a href="https://xnovainternational.eu.auth0.com/login?state=hKFo2SBkSG4wc2JSQmJkLVctZFNPbnZialB0bkNKR3lnLW5TTqFupWxvZ2luo3RpZNkgYWxoMXFjQ3FlQnYyREU1RE15RmJ2UlQtRV81aGpORUejY2lk2SBERXFLTmJkM2kyeVlDeEoxRHRWR08yM1F5TEJ5cDV3NQ&client=DEqKNbd3i2yYCxJ1DtVGO23QyLByp5w5&protocol=oauth2&scope=openid%20profile%20email&response_type=code&redirect_uri=https%3A%2F%2Fapp.xnovainternational.com%2Fapi%2Fauth%2Fcallback&audience=https%3A%2F%2Fapp.xnovainternational.com%2Fapi&nonce=1Vy3dLQYemC9MHC9llxscX2qutSxBopPlWR2GjXv4qg&code_challenge_method=S256&code_challenge=gypzw9C7arnCv2gGnFffmGlpI4lY4ngGUMsLuNoRBAM" className="footer-btn-primary">{t("footerLogIn", translations)}</a>
-              <a href="https://www.xnovainternational.com/demo" className="footer-btn-secondary">{t("footerBookDemo", translations)}</a>
-            </div>
             <div className="footer-social">
               <a href="https://www.youtube.com" target="_blank" rel="noopener noreferrer" aria-label="YouTube">
                 <svg className="social-icon" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">

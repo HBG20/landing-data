@@ -780,11 +780,6 @@ const MapChart = ({ selectedCountryCode, onCountrySelect, marketTypeFilter, onMa
       color: "#19419F",
       label: t("marketMixedDisplay", translations),
     },
-    {
-      type: "government_registries",
-      color: "#3E2790",
-      label: t("marketGovernmentRegistriesDisplay", translations),
-    },
   ];
 
   return (
